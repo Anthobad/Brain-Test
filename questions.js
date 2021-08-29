@@ -8,7 +8,7 @@ let questions = [
             "Spike",
             "Woody",
             "Alex",
-            "Mike"
+            "Peter"
         ]
     },
     {
