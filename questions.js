@@ -13,46 +13,46 @@ let questions = [
     },
     {
         numb: 2,
-        question: "What is the color of an emerald?",
-        answer: "Green",
+        question: "How many blue stripes are there on the U.S. flag?",
+        answer: "0",
         options: [
-            "Blue",
-            "Red",
-            "Yellow",
-            "Green"
+            "7",
+            "13",
+            "6",
+            "0"
         ]
     },
     {
         numb: 3,
-        question: "What fruit do kids traditionally give to teachers?",
-        answer: "An Apple",
+        question: "What is the color of Donald Duck’s bowtie?",
+        answer: "Red",
         options: [
-            "An Apple",
-            "A Banana",
-            "A PineApple",
-            "An Orange"
+            "Red",
+            "Yellow",
+            "White",
+            "Blue"
         ]
     },
     {
         numb: 4,
-        question: "Where does Santa Claus live?",
-        answer: "The North Pole",
+        question: "Which planet is the hottest?",
+        answer: "Venus",
         options: [
-            "The South Pole",
-            "Asia",
+            "Saturn",
+            "Mercury",
             "Europe",
-            "The North Pole"
+            "Venus"
         ]
     },
     {
         numb: 5,
-        question: "How many colors are in a rainbow?",
-        answer: "Seven",
+        question: "What is the rarest blood type?",
+        answer: "AB-Negative",
         options: [
-            "Seven",
-            "Six",
-            "Eight",
-            "Five"
+            "AB-Negative",
+            "O",
+            "A",
+            "B"
         ]
     },
 ];
