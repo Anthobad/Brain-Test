@@ -2,13 +2,13 @@
 let questions = [
     {
         numb: 1,
-        question: "What is the name of the toy cowboy in Toy Story?",
-        answer: "Woody",
+        question: "How many countries are there in the world?",
+        answer: "195",
         options: [
-            "Spike",
-            "Woody",
-            "Alex",
-            "Peter"
+            "196",
+            "195",
+            "200",
+            "6"
         ]
     },
     {
