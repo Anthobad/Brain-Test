@@ -365,3 +365,13 @@ footer .next_btn:hover{
     cursor: pointer;
     transition: all 0.3s ease;
 }
+
+.update{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 500;
+    margin: 500px 500px 0px 500px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
