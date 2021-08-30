@@ -11,6 +11,45 @@ body{
     background: #007bff;
 }
 
+.navbar{
+    width: 50%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+.navbar ul li a:hover{
+    color: #ff0000;
+    transition: .9s;
+}
+.navbar ul li::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: -10px;
+    background: #ff0000;
+    transform: scale(0, 1);
+    transition: transform 0.5s ease;
+}
+.navbar ul li:hover::after{
+    transform: scale(1, 1);
+}
+
 .start_btn,
 .info_box,
 .quiz_box,
@@ -368,7 +407,7 @@ footer .next_btn:hover{
 
 .update{
     color: #fff;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 500;
     display: flex;
     text-align: center;

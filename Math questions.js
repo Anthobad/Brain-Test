@@ -2,57 +2,57 @@
 let questions = [
     {
         numb: 1,
-        question: "How many countries are there in the world?",
-        answer: "195",
+        question: "3+4(5-3)=?",
+        answer: "14",
         options: [
-            "196",
-            "195",
-            "200",
+            "30",
+            "14",
+            "12",
             "6"
         ]
     },
     {
         numb: 2,
-        question: "How many blue stripes are there on the U.S. flag?",
-        answer: "0",
+        question: "3-3x2+2÷2=?",
+        answer: "-2",
         options: [
             "7",
-            "13",
-            "6",
-            "0"
+            "0",
+            "-3",
+            "-2"
         ]
     },
     {
         numb: 3,
-        question: "What is the color of Donald Duck’s bowtie?",
-        answer: "Red",
+        question: "If you multiply 2 by itself 20 times.What will you get?",
+        answer: "4",
         options: [
-            "Red",
-            "Yellow",
-            "White",
-            "Blue"
+            "4",
+            "2",
+            "0",
+            "13"
         ]
     },
     {
         numb: 4,
-        question: "Which planet is the hottest?",
-        answer: "Venus",
+        question: "Two's company and three's a crowd, so what do four and five make?",
+        answer: "9",
         options: [
-            "Saturn",
-            "Mercury",
-            "Europe",
-            "Venus"
+            "Mars",
+            "Football Match",
+            "Hospital",
+            "9"
         ]
     },
     {
         numb: 5,
-        question: "What is the rarest blood type?",
-        answer: "AB-Negative",
+        question: "2-2x2+2",
+        answer: "0",
         options: [
-            "AB-Negative",
-            "O",
-            "A",
-            "B"
+            "0",
+            "2",
+            "4",
+            "8"
         ]
     },
 ];
