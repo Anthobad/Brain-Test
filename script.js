@@ -186,11 +186,11 @@ function startTimer(time){
 }
 
 function startTimerLine(time){
-    counterLine = setInterval(timer, 29);
+    counterLine = setInterval(timer, 45);
     function timer(){
         time += 1;
         timeLine.style.width = time + 'px';
-        if(time > 549){
+        if(time > 349){
             clearInterval(counterLine);
         }
     }
