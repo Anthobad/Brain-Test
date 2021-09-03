@@ -2,57 +2,57 @@
 let questions = [
     {
         numb: 1,
-        question: "How many countries are there in the world?",
-        answer: "195",
+        question: "Name the biggest island on Earth.",
+        answer: "Greenland",
         options: [
-            "196",
-            "195",
-            "200",
-            "6"
+            "Hawaii",
+            "Madagascar",
+            "Greenland",
+            "New Guinea"
         ]
     },
     {
         numb: 2,
-        question: "How many blue stripes are there on the U.S. flag?",
-        answer: "0",
+        question: "What is the diameter of Earth?",
+        answer: "12, 742 Km",
         options: [
-            "7",
-            "13",
-            "6",
-            "0"
+            "7 Km",
+            "12, 742 Km",
+            "63, 000 Km",
+            "1 m"
         ]
     },
     {
         numb: 3,
-        question: "What is the color of Donald Duck’s bowtie?",
-        answer: "Red",
+        question: "How many states are there in the United States of America?",
+        answer: "50 States",
         options: [
-            "Red",
-            "Yellow",
-            "White",
-            "Blue"
+            "50 States",
+            "32 States",
+            "5 States",
+            "70 States"
         ]
     },
     {
         numb: 4,
-        question: "Which planet is the hottest?",
-        answer: "Venus",
+        question: "Name the largest ocean of the world.",
+        answer: "Pacific Ocean",
         options: [
-            "Saturn",
-            "Mercury",
-            "Europe",
-            "Venus"
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Pacific Ocean",
+            "Arctic Ocean"
         ]
     },
     {
         numb: 5,
-        question: "What is the rarest blood type?",
-        answer: "AB-Negative",
+        question: "Which city is known as the “City of Love”?",
+        answer: "Paris",
         options: [
-            "AB-Negative",
-            "O",
-            "A",
-            "B"
+            "Paris",
+            "England",
+            "Italy",
+            "Spain"
         ]
     },
 ];
